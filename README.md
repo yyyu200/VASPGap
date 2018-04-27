@@ -1,6 +1,7 @@
 # VASPGap
 ====  
-Find the VBM from EIGENVAL of VASP output  
+Find the VBM from EIGENVAL of VASP output, supporting spin-polarized and noncollinear cases.
+
 use -c or -n for collinear/noncollinear results, otherwise the code may guess one (but maybe not right!)
 
 
