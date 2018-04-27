@@ -1,5 +1,5 @@
 # VASPGap
-====
+====  
 Find the VBM from EIGENVAL of VASP output  
 Usage:  
 Gap.sh [-f FILENAME -n -c -h ]  
