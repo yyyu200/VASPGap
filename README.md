@@ -1,7 +1,7 @@
 # VASPGap
 ====  
 Find the VBM from EIGENVAL of VASP output  
-use -c or -n for collinear/noncollinear results, otherwise the code may guess one  but maybe wrong guess
+use -c or -n for collinear/noncollinear results, otherwise the code may guess one (but maybe not right!)
 
 
 Usage:  
