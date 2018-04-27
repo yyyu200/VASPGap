@@ -3,7 +3,7 @@
 # DO NOT CHANGE ANYTHING BELOW THIS LINE
 # warning : use with care: fractional valence charge (e.g. H1.25), noncollinear/ collinear judge by yourself
 # dependencies: awk
-# yz 2015
+# yyyu200@163.com 
 
 if [ -z $1 ]
 then
@@ -22,7 +22,7 @@ do
 		h)
 			echo "Find band gap for VASP from EIGENVAL"
 			echo "Gap.sh [-f FILENAME -n -c -h ]"; 
-			echo "    -f FILENAME: specify input file name"; 
+			echo "    -f FILENAME: specify input file name, default EIGENVAL"; 
 			echo "    -n : noncollinear format";
 			echo "    -c : collinear format";
 			echo "    -h : show this message";
